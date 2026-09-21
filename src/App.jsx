@@ -574,7 +574,7 @@ export default function Portfolio() {
                   muhammadnabil030505@gmail.com
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/muhammad-nabil-ariffudin"
+                  href="https://www.linkedin.com/in/muhammad-nabil-bin-ariffudin-234b18430"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn ghost"
